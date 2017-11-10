@@ -1,0 +1,911 @@
+fileFormatVersion: 2
+guid: 3b766d1f01d701746bb048389921800f
+timeCreated: 1510311283
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: achterkant monitor thing
+    100002: achterkant monitor thing001
+    100004: Basis
+    100006: Box001
+    100008: Box002
+    100010: Box003
+    100012: Box004
+    100014: Box005
+    100016: Box006
+    100018: Box007
+    100020: Box008
+    100022: Box009
+    100024: Box010
+    100026: Box011
+    100028: Bureau bovenkant
+    100030: Camera001
+    100032: Camera001.Target
+    100034: ChamferBox001
+    100036: ChamferBox002
+    100038: ChamferBox003
+    100040: ChamferBox004
+    100042: ChamferBox005
+    100044: ChamferBox006
+    100046: ChamferBox007
+    100048: ChamferBox008
+    100050: Circle001
+    100052: deurtje
+    100054: Keyboard button
+    100056: Keyboard button001
+    100058: Keyboard button002
+    100060: Keyboard button003
+    100062: Keyboard button004
+    100064: Keyboard button005
+    100066: Keyboard button006
+    100068: Keyboard button007
+    100070: Keyboard button008
+    100072: Keyboard button009
+    100074: Keyboard button010
+    100076: Keyboard button011
+    100078: Keyboard button012
+    100080: Keyboard button013
+    100082: Keyboard button014
+    100084: Keyboard button015
+    100086: Keyboard button016
+    100088: Keyboard button017
+    100090: Keyboard button018
+    100092: Keyboard button019
+    100094: Keyboard button020
+    100096: Keyboard button021
+    100098: Keyboard button022
+    100100: Keyboard button023
+    100102: Keyboard button024
+    100104: Keyboard button025
+    100106: Keyboard button026
+    100108: Keyboard button027
+    100110: Keyboard button028
+    100112: Keyboard button029
+    100114: Keyboard button030
+    100116: Keyboard button031
+    100118: Keyboard button032
+    100120: Keyboard button033
+    100122: Keyboard button034
+    100124: Keyboard button035
+    100126: Keyboard button036
+    100128: Keyboard button037
+    100130: Keyboard button038
+    100132: Keyboard button039
+    100134: Keyboard button040
+    100136: Keyboard button041
+    100138: Keyboard button042
+    100140: Keyboard button043
+    100142: Keyboard button044
+    100144: Keyboard button045
+    100146: Keyboard button046
+    100148: Keyboard button047
+    100150: Keyboard button048
+    100152: Keyboard button049
+    100154: Keyboard button050
+    100156: Keyboard button051
+    100158: Keyboard button052
+    100160: Keyboard button053
+    100162: Keyboard button054
+    100164: Keyboard button055
+    100166: Keyboard button056
+    100168: Keyboard button057
+    100170: Keyboard button058
+    100172: Keyboard button059
+    100174: Keyboard button060
+    100176: Keyboard button061
+    100178: Keyboard button062
+    100180: Keyboard button063
+    100182: Keyboard button064
+    100184: Keyboard button065
+    100186: Keyboard button066
+    100188: Keyboard button067
+    100190: Keyboard button068
+    100192: Keyboard button069
+    100194: Keyboard button070
+    100196: Keyboard button071
+    100198: Keyboard button072
+    100200: Keyboard button073
+    100202: Keyboard button074
+    100204: Keyboard button075
+    100206: Keyboard button076
+    100208: Keyboard button077
+    100210: Keyboard button078
+    100212: Keyboard button079
+    100214: Keyboard button080
+    100216: Keyboard button081
+    100218: Keyboard button082
+    100220: Keyboard button083
+    100222: Keyboard button084
+    100224: Keyboard button085
+    100226: Keyboard button086
+    100228: Keyboard button087
+    100230: Keyboard button088
+    100232: Keyboard button089
+    100234: Keyboard button090
+    100236: Keyboard button091
+    100238: Keyboard button092
+    100240: Keyboard button093
+    100242: Keyboard button094
+    100244: Keyboard button095
+    100246: Keyboard button096
+    100248: Keyboard button097
+    100250: Keyboard button098
+    100252: Keyboard button099
+    100254: Keyboard button100
+    100256: Keyboard button101
+    100258: Keyboard button102
+    100260: Keyboard button103
+    100262: Keyboard button104
+    100264: Keyboard button105
+    100266: Keyboard button106
+    100268: Keyboard button107
+    100270: Keyboard button108
+    100272: Keyboard button109
+    100274: Keyboard button110
+    100276: Keyboard button111
+    100278: Line002
+    100280: //RootNode
+    100282: monitor thing 002
+    100284: monitor thing 003
+    100286: monitor thing 004
+    100288: monitor thing 005
+    100290: monitor thing 006
+    100292: monitor thing 007
+    100294: monitor thing 008
+    100296: monitor thing 1
+    100298: Omni001
+    100300: onderste matras
+    100302: Plane002
+    100304: Plane003
+    100306: poot 1
+    100308: poot 2
+    100310: poot 3
+    100312: poot 4
+    100314: Rug
+    100316: skydome
+    100318: Sphere001
+    100320: Sphere002
+    100322: Vloer
+    100324: Zeikant aan de linker zijde 003
+    100326: Zeikant aan de linker zijde 004
+    100328: Zeikant aan de linker zijde 2
+    100330: Zeikant kastje links
+    100332: Zeikant kastje rechts
+    100334: Zitting
+    400000: achterkant monitor thing
+    400002: achterkant monitor thing001
+    400004: Basis
+    400006: Box001
+    400008: Box002
+    400010: Box003
+    400012: Box004
+    400014: Box005
+    400016: Box006
+    400018: Box007
+    400020: Box008
+    400022: Box009
+    400024: Box010
+    400026: Box011
+    400028: Bureau bovenkant
+    400030: Camera001
+    400032: Camera001.Target
+    400034: ChamferBox001
+    400036: ChamferBox002
+    400038: ChamferBox003
+    400040: ChamferBox004
+    400042: ChamferBox005
+    400044: ChamferBox006
+    400046: ChamferBox007
+    400048: ChamferBox008
+    400050: Circle001
+    400052: deurtje
+    400054: Keyboard button
+    400056: Keyboard button001
+    400058: Keyboard button002
+    400060: Keyboard button003
+    400062: Keyboard button004
+    400064: Keyboard button005
+    400066: Keyboard button006
+    400068: Keyboard button007
+    400070: Keyboard button008
+    400072: Keyboard button009
+    400074: Keyboard button010
+    400076: Keyboard button011
+    400078: Keyboard button012
+    400080: Keyboard button013
+    400082: Keyboard button014
+    400084: Keyboard button015
+    400086: Keyboard button016
+    400088: Keyboard button017
+    400090: Keyboard button018
+    400092: Keyboard button019
+    400094: Keyboard button020
+    400096: Keyboard button021
+    400098: Keyboard button022
+    400100: Keyboard button023
+    400102: Keyboard button024
+    400104: Keyboard button025
+    400106: Keyboard button026
+    400108: Keyboard button027
+    400110: Keyboard button028
+    400112: Keyboard button029
+    400114: Keyboard button030
+    400116: Keyboard button031
+    400118: Keyboard button032
+    400120: Keyboard button033
+    400122: Keyboard button034
+    400124: Keyboard button035
+    400126: Keyboard button036
+    400128: Keyboard button037
+    400130: Keyboard button038
+    400132: Keyboard button039
+    400134: Keyboard button040
+    400136: Keyboard button041
+    400138: Keyboard button042
+    400140: Keyboard button043
+    400142: Keyboard button044
+    400144: Keyboard button045
+    400146: Keyboard button046
+    400148: Keyboard button047
+    400150: Keyboard button048
+    400152: Keyboard button049
+    400154: Keyboard button050
+    400156: Keyboard button051
+    400158: Keyboard button052
+    400160: Keyboard button053
+    400162: Keyboard button054
+    400164: Keyboard button055
+    400166: Keyboard button056
+    400168: Keyboard button057
+    400170: Keyboard button058
+    400172: Keyboard button059
+    400174: Keyboard button060
+    400176: Keyboard button061
+    400178: Keyboard button062
+    400180: Keyboard button063
+    400182: Keyboard button064
+    400184: Keyboard button065
+    400186: Keyboard button066
+    400188: Keyboard button067
+    400190: Keyboard button068
+    400192: Keyboard button069
+    400194: Keyboard button070
+    400196: Keyboard button071
+    400198: Keyboard button072
+    400200: Keyboard button073
+    400202: Keyboard button074
+    400204: Keyboard button075
+    400206: Keyboard button076
+    400208: Keyboard button077
+    400210: Keyboard button078
+    400212: Keyboard button079
+    400214: Keyboard button080
+    400216: Keyboard button081
+    400218: Keyboard button082
+    400220: Keyboard button083
+    400222: Keyboard button084
+    400224: Keyboard button085
+    400226: Keyboard button086
+    400228: Keyboard button087
+    400230: Keyboard button088
+    400232: Keyboard button089
+    400234: Keyboard button090
+    400236: Keyboard button091
+    400238: Keyboard button092
+    400240: Keyboard button093
+    400242: Keyboard button094
+    400244: Keyboard button095
+    400246: Keyboard button096
+    400248: Keyboard button097
+    400250: Keyboard button098
+    400252: Keyboard button099
+    400254: Keyboard button100
+    400256: Keyboard button101
+    400258: Keyboard button102
+    400260: Keyboard button103
+    400262: Keyboard button104
+    400264: Keyboard button105
+    400266: Keyboard button106
+    400268: Keyboard button107
+    400270: Keyboard button108
+    400272: Keyboard button109
+    400274: Keyboard button110
+    400276: Keyboard button111
+    400278: Line002
+    400280: //RootNode
+    400282: monitor thing 002
+    400284: monitor thing 003
+    400286: monitor thing 004
+    400288: monitor thing 005
+    400290: monitor thing 006
+    400292: monitor thing 007
+    400294: monitor thing 008
+    400296: monitor thing 1
+    400298: Omni001
+    400300: onderste matras
+    400302: Plane002
+    400304: Plane003
+    400306: poot 1
+    400308: poot 2
+    400310: poot 3
+    400312: poot 4
+    400314: Rug
+    400316: skydome
+    400318: Sphere001
+    400320: Sphere002
+    400322: Vloer
+    400324: Zeikant aan de linker zijde 003
+    400326: Zeikant aan de linker zijde 004
+    400328: Zeikant aan de linker zijde 2
+    400330: Zeikant kastje links
+    400332: Zeikant kastje rechts
+    400334: Zitting
+    2000000: Camera001
+    2300000: achterkant monitor thing
+    2300002: achterkant monitor thing001
+    2300004: Basis
+    2300006: Box001
+    2300008: Box002
+    2300010: Box003
+    2300012: Box004
+    2300014: Box005
+    2300016: Box006
+    2300018: Box007
+    2300020: Box008
+    2300022: Box009
+    2300024: Box010
+    2300026: Box011
+    2300028: Bureau bovenkant
+    2300030: ChamferBox001
+    2300032: ChamferBox002
+    2300034: ChamferBox003
+    2300036: ChamferBox004
+    2300038: ChamferBox005
+    2300040: ChamferBox006
+    2300042: ChamferBox007
+    2300044: ChamferBox008
+    2300046: deurtje
+    2300048: Keyboard button
+    2300050: Keyboard button001
+    2300052: Keyboard button002
+    2300054: Keyboard button003
+    2300056: Keyboard button004
+    2300058: Keyboard button005
+    2300060: Keyboard button006
+    2300062: Keyboard button007
+    2300064: Keyboard button008
+    2300066: Keyboard button009
+    2300068: Keyboard button010
+    2300070: Keyboard button011
+    2300072: Keyboard button012
+    2300074: Keyboard button013
+    2300076: Keyboard button014
+    2300078: Keyboard button015
+    2300080: Keyboard button016
+    2300082: Keyboard button017
+    2300084: Keyboard button018
+    2300086: Keyboard button019
+    2300088: Keyboard button020
+    2300090: Keyboard button021
+    2300092: Keyboard button022
+    2300094: Keyboard button023
+    2300096: Keyboard button024
+    2300098: Keyboard button025
+    2300100: Keyboard button026
+    2300102: Keyboard button027
+    2300104: Keyboard button028
+    2300106: Keyboard button029
+    2300108: Keyboard button030
+    2300110: Keyboard button031
+    2300112: Keyboard button032
+    2300114: Keyboard button033
+    2300116: Keyboard button034
+    2300118: Keyboard button035
+    2300120: Keyboard button036
+    2300122: Keyboard button037
+    2300124: Keyboard button038
+    2300126: Keyboard button039
+    2300128: Keyboard button040
+    2300130: Keyboard button041
+    2300132: Keyboard button042
+    2300134: Keyboard button043
+    2300136: Keyboard button044
+    2300138: Keyboard button045
+    2300140: Keyboard button046
+    2300142: Keyboard button047
+    2300144: Keyboard button048
+    2300146: Keyboard button049
+    2300148: Keyboard button050
+    2300150: Keyboard button051
+    2300152: Keyboard button052
+    2300154: Keyboard button053
+    2300156: Keyboard button054
+    2300158: Keyboard button055
+    2300160: Keyboard button056
+    2300162: Keyboard button057
+    2300164: Keyboard button058
+    2300166: Keyboard button059
+    2300168: Keyboard button060
+    2300170: Keyboard button061
+    2300172: Keyboard button062
+    2300174: Keyboard button063
+    2300176: Keyboard button064
+    2300178: Keyboard button065
+    2300180: Keyboard button066
+    2300182: Keyboard button067
+    2300184: Keyboard button068
+    2300186: Keyboard button069
+    2300188: Keyboard button070
+    2300190: Keyboard button071
+    2300192: Keyboard button072
+    2300194: Keyboard button073
+    2300196: Keyboard button074
+    2300198: Keyboard button075
+    2300200: Keyboard button076
+    2300202: Keyboard button077
+    2300204: Keyboard button078
+    2300206: Keyboard button079
+    2300208: Keyboard button080
+    2300210: Keyboard button081
+    2300212: Keyboard button082
+    2300214: Keyboard button083
+    2300216: Keyboard button084
+    2300218: Keyboard button085
+    2300220: Keyboard button086
+    2300222: Keyboard button087
+    2300224: Keyboard button088
+    2300226: Keyboard button089
+    2300228: Keyboard button090
+    2300230: Keyboard button091
+    2300232: Keyboard button092
+    2300234: Keyboard button093
+    2300236: Keyboard button094
+    2300238: Keyboard button095
+    2300240: Keyboard button096
+    2300242: Keyboard button097
+    2300244: Keyboard button098
+    2300246: Keyboard button099
+    2300248: Keyboard button100
+    2300250: Keyboard button101
+    2300252: Keyboard button102
+    2300254: Keyboard button103
+    2300256: Keyboard button104
+    2300258: Keyboard button105
+    2300260: Keyboard button106
+    2300262: Keyboard button107
+    2300264: Keyboard button108
+    2300266: Keyboard button109
+    2300268: Keyboard button110
+    2300270: Keyboard button111
+    2300272: Line002
+    2300274: monitor thing 002
+    2300276: monitor thing 003
+    2300278: monitor thing 004
+    2300280: monitor thing 005
+    2300282: monitor thing 006
+    2300284: monitor thing 007
+    2300286: monitor thing 008
+    2300288: monitor thing 1
+    2300290: onderste matras
+    2300292: Plane002
+    2300294: Plane003
+    2300296: poot 1
+    2300298: poot 2
+    2300300: poot 3
+    2300302: poot 4
+    2300304: Rug
+    2300306: skydome
+    2300308: Sphere001
+    2300310: Sphere002
+    2300312: Vloer
+    2300314: Zeikant aan de linker zijde 003
+    2300316: Zeikant aan de linker zijde 004
+    2300318: Zeikant aan de linker zijde 2
+    2300320: Zeikant kastje links
+    2300322: Zeikant kastje rechts
+    2300324: Zitting
+    3300000: achterkant monitor thing
+    3300002: achterkant monitor thing001
+    3300004: Basis
+    3300006: Box001
+    3300008: Box002
+    3300010: Box003
+    3300012: Box004
+    3300014: Box005
+    3300016: Box006
+    3300018: Box007
+    3300020: Box008
+    3300022: Box009
+    3300024: Box010
+    3300026: Box011
+    3300028: Bureau bovenkant
+    3300030: ChamferBox001
+    3300032: ChamferBox002
+    3300034: ChamferBox003
+    3300036: ChamferBox004
+    3300038: ChamferBox005
+    3300040: ChamferBox006
+    3300042: ChamferBox007
+    3300044: ChamferBox008
+    3300046: deurtje
+    3300048: Keyboard button
+    3300050: Keyboard button001
+    3300052: Keyboard button002
+    3300054: Keyboard button003
+    3300056: Keyboard button004
+    3300058: Keyboard button005
+    3300060: Keyboard button006
+    3300062: Keyboard button007
+    3300064: Keyboard button008
+    3300066: Keyboard button009
+    3300068: Keyboard button010
+    3300070: Keyboard button011
+    3300072: Keyboard button012
+    3300074: Keyboard button013
+    3300076: Keyboard button014
+    3300078: Keyboard button015
+    3300080: Keyboard button016
+    3300082: Keyboard button017
+    3300084: Keyboard button018
+    3300086: Keyboard button019
+    3300088: Keyboard button020
+    3300090: Keyboard button021
+    3300092: Keyboard button022
+    3300094: Keyboard button023
+    3300096: Keyboard button024
+    3300098: Keyboard button025
+    3300100: Keyboard button026
+    3300102: Keyboard button027
+    3300104: Keyboard button028
+    3300106: Keyboard button029
+    3300108: Keyboard button030
+    3300110: Keyboard button031
+    3300112: Keyboard button032
+    3300114: Keyboard button033
+    3300116: Keyboard button034
+    3300118: Keyboard button035
+    3300120: Keyboard button036
+    3300122: Keyboard button037
+    3300124: Keyboard button038
+    3300126: Keyboard button039
+    3300128: Keyboard button040
+    3300130: Keyboard button041
+    3300132: Keyboard button042
+    3300134: Keyboard button043
+    3300136: Keyboard button044
+    3300138: Keyboard button045
+    3300140: Keyboard button046
+    3300142: Keyboard button047
+    3300144: Keyboard button048
+    3300146: Keyboard button049
+    3300148: Keyboard button050
+    3300150: Keyboard button051
+    3300152: Keyboard button052
+    3300154: Keyboard button053
+    3300156: Keyboard button054
+    3300158: Keyboard button055
+    3300160: Keyboard button056
+    3300162: Keyboard button057
+    3300164: Keyboard button058
+    3300166: Keyboard button059
+    3300168: Keyboard button060
+    3300170: Keyboard button061
+    3300172: Keyboard button062
+    3300174: Keyboard button063
+    3300176: Keyboard button064
+    3300178: Keyboard button065
+    3300180: Keyboard button066
+    3300182: Keyboard button067
+    3300184: Keyboard button068
+    3300186: Keyboard button069
+    3300188: Keyboard button070
+    3300190: Keyboard button071
+    3300192: Keyboard button072
+    3300194: Keyboard button073
+    3300196: Keyboard button074
+    3300198: Keyboard button075
+    3300200: Keyboard button076
+    3300202: Keyboard button077
+    3300204: Keyboard button078
+    3300206: Keyboard button079
+    3300208: Keyboard button080
+    3300210: Keyboard button081
+    3300212: Keyboard button082
+    3300214: Keyboard button083
+    3300216: Keyboard button084
+    3300218: Keyboard button085
+    3300220: Keyboard button086
+    3300222: Keyboard button087
+    3300224: Keyboard button088
+    3300226: Keyboard button089
+    3300228: Keyboard button090
+    3300230: Keyboard button091
+    3300232: Keyboard button092
+    3300234: Keyboard button093
+    3300236: Keyboard button094
+    3300238: Keyboard button095
+    3300240: Keyboard button096
+    3300242: Keyboard button097
+    3300244: Keyboard button098
+    3300246: Keyboard button099
+    3300248: Keyboard button100
+    3300250: Keyboard button101
+    3300252: Keyboard button102
+    3300254: Keyboard button103
+    3300256: Keyboard button104
+    3300258: Keyboard button105
+    3300260: Keyboard button106
+    3300262: Keyboard button107
+    3300264: Keyboard button108
+    3300266: Keyboard button109
+    3300268: Keyboard button110
+    3300270: Keyboard button111
+    3300272: Line002
+    3300274: monitor thing 002
+    3300276: monitor thing 003
+    3300278: monitor thing 004
+    3300280: monitor thing 005
+    3300282: monitor thing 006
+    3300284: monitor thing 007
+    3300286: monitor thing 008
+    3300288: monitor thing 1
+    3300290: onderste matras
+    3300292: Plane002
+    3300294: Plane003
+    3300296: poot 1
+    3300298: poot 2
+    3300300: poot 3
+    3300302: poot 4
+    3300304: Rug
+    3300306: skydome
+    3300308: Sphere001
+    3300310: Sphere002
+    3300312: Vloer
+    3300314: Zeikant aan de linker zijde 003
+    3300316: Zeikant aan de linker zijde 004
+    3300318: Zeikant aan de linker zijde 2
+    3300320: Zeikant kastje links
+    3300322: Zeikant kastje rechts
+    3300324: Zitting
+    4300000: Vloer
+    4300002: Bureau bovenkant
+    4300004: deurtje
+    4300006: Zeikant kastje rechts
+    4300008: Zeikant kastje links
+    4300010: Zeikant aan de linker zijde 2
+    4300012: Zeikant aan de linker zijde 003
+    4300014: poot 1
+    4300016: poot 2
+    4300018: poot 3
+    4300020: poot 4
+    4300022: Basis
+    4300024: Zitting
+    4300026: Rug
+    4300028: Line002
+    4300030: ChamferBox001
+    4300032: ChamferBox002
+    4300034: onderste matras
+    4300036: ChamferBox003
+    4300038: Box001
+    4300040: Box002
+    4300042: Box003
+    4300044: Box004
+    4300046: monitor thing 1
+    4300048: monitor thing 002
+    4300050: monitor thing 003
+    4300052: monitor thing 004
+    4300054: achterkant monitor thing
+    4300056: Box005
+    4300058: Sphere001
+    4300060: Box006
+    4300062: achterkant monitor thing001
+    4300064: monitor thing 005
+    4300066: monitor thing 006
+    4300068: monitor thing 007
+    4300070: monitor thing 008
+    4300072: Sphere002
+    4300074: Box007
+    4300076: Zeikant aan de linker zijde 004
+    4300078: Plane002
+    4300080: ChamferBox004
+    4300082: Keyboard button
+    4300084: Keyboard button001
+    4300086: Keyboard button002
+    4300088: Keyboard button003
+    4300090: Keyboard button004
+    4300092: Keyboard button005
+    4300094: Keyboard button006
+    4300096: Keyboard button007
+    4300098: Keyboard button008
+    4300100: Keyboard button009
+    4300102: Keyboard button010
+    4300104: Keyboard button011
+    4300106: Keyboard button012
+    4300108: Keyboard button013
+    4300110: Keyboard button014
+    4300112: Keyboard button015
+    4300114: Keyboard button016
+    4300116: Keyboard button017
+    4300118: Keyboard button018
+    4300120: Keyboard button019
+    4300122: Keyboard button020
+    4300124: Keyboard button021
+    4300126: Keyboard button022
+    4300128: Keyboard button023
+    4300130: Keyboard button024
+    4300132: Keyboard button025
+    4300134: Keyboard button026
+    4300136: Keyboard button027
+    4300138: Keyboard button028
+    4300140: Keyboard button029
+    4300142: Keyboard button030
+    4300144: Keyboard button031
+    4300146: Keyboard button032
+    4300148: Keyboard button033
+    4300150: Keyboard button034
+    4300152: Keyboard button035
+    4300154: Keyboard button036
+    4300156: Keyboard button037
+    4300158: Keyboard button038
+    4300160: Keyboard button039
+    4300162: Keyboard button040
+    4300164: Keyboard button041
+    4300166: Keyboard button042
+    4300168: Keyboard button043
+    4300170: Keyboard button044
+    4300172: Keyboard button045
+    4300174: Keyboard button046
+    4300176: Keyboard button047
+    4300178: Keyboard button048
+    4300180: Keyboard button049
+    4300182: Keyboard button050
+    4300184: Keyboard button051
+    4300186: Keyboard button052
+    4300188: Keyboard button053
+    4300190: Keyboard button054
+    4300192: Keyboard button055
+    4300194: Keyboard button056
+    4300196: Keyboard button057
+    4300198: Keyboard button058
+    4300200: Keyboard button059
+    4300202: Keyboard button060
+    4300204: Keyboard button061
+    4300206: Keyboard button062
+    4300208: Keyboard button063
+    4300210: Keyboard button064
+    4300212: Keyboard button065
+    4300214: Keyboard button066
+    4300216: Keyboard button067
+    4300218: Keyboard button068
+    4300220: Keyboard button069
+    4300222: Keyboard button070
+    4300224: Keyboard button071
+    4300226: Keyboard button072
+    4300228: Keyboard button073
+    4300230: Keyboard button074
+    4300232: Keyboard button075
+    4300234: Keyboard button076
+    4300236: Keyboard button077
+    4300238: Keyboard button078
+    4300240: Keyboard button079
+    4300242: Keyboard button080
+    4300244: Keyboard button081
+    4300246: Keyboard button082
+    4300248: Keyboard button083
+    4300250: Keyboard button084
+    4300252: Keyboard button085
+    4300254: Keyboard button086
+    4300256: Keyboard button087
+    4300258: Keyboard button088
+    4300260: Keyboard button089
+    4300262: Keyboard button090
+    4300264: Keyboard button091
+    4300266: Keyboard button092
+    4300268: Keyboard button093
+    4300270: Keyboard button094
+    4300272: Keyboard button095
+    4300274: Keyboard button096
+    4300276: Keyboard button097
+    4300278: Keyboard button098
+    4300280: Keyboard button099
+    4300282: Keyboard button100
+    4300284: Keyboard button101
+    4300286: Keyboard button102
+    4300288: Keyboard button103
+    4300290: Keyboard button104
+    4300292: Keyboard button105
+    4300294: Keyboard button106
+    4300296: Keyboard button107
+    4300298: Keyboard button108
+    4300300: Keyboard button109
+    4300302: Keyboard button110
+    4300304: Keyboard button111
+    4300306: Plane003
+    4300308: skydome
+    4300310: Box008
+    4300312: Box009
+    4300314: Box010
+    4300316: ChamferBox005
+    4300318: ChamferBox006
+    4300320: ChamferBox007
+    4300322: ChamferBox008
+    4300324: Box011
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Omni001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
